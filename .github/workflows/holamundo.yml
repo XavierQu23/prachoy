@@ -16,6 +16,6 @@ jobs:
 
     - name: Restart Nginx container
       run: |
-        docker restart nginx
+        docker restart holamundo
   
 
